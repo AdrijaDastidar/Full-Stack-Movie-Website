@@ -1,4 +1,4 @@
-# 🎬 All-in-One Movie Website
+# 🎬 All-in-One Movie Website - MovieMatrix
 
 Welcome to the **All-in-One Movie Website**, a comprehensive platform for movie recommendations, ticket booking, and streaming! Built with a modern **MERN stack** (MongoDB, Express.js, React.js, Node.js) and integrated with AI/ML algorithms, this platform offers personalized movie suggestions and a seamless user experience.
 
