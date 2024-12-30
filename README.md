@@ -56,6 +56,20 @@ The **All-in-One Movie Website** combines movie recommendations, ticket booking,
 - 💳 **Razorpay** - Secure payment gateway for ticket booking.
 
 ---
+### Screenshot 
+#### Home Page
+![S1](Img/S1.png)
+![S2](Img/S2.png)
+#### Admin Panel
+![S3](Img/S3.png)
+![S4](Img/S4.png)
+#### User Section
+![S5](Img/S5.png)
+![S6](Img/S6.png)
+![S7](Img/S7.png)
+![S8](Img/S8.png)
+
+---
 
 ## 🛠️ Installation
 
