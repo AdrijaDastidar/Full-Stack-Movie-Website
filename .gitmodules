@@ -1,6 +1,6 @@
-[submodule "Movie-Backend"]
+[submodule "Backend"]
 	path = Movie-Backend
 	url = https://github.com/AdrijaDastidar/Movie-Backend
-[submodule "Mern-Movie"]
+[submodule "Frontend"]
 	path = Mern-Movie
 	url = https://github.com/AdrijaDastidar/Mern-Movie
